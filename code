@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1 style="text-align: center;">Divyansh Bhandary</h1>
+    <h4 style="text-align: center;">
+        Location: Bhilai, C.G. <br> 
+        No. +91 92023 79717 <br>
+        Gmail: divyanshbhandary15@gmail.com
+    </h4>
+    
+    
+    <h2><u>Profiles</u></h2>
+    <p><b>GitHub: <a href="https://github.com/DivyanshBhandary" target="_blank">divyanshbhandary</a></b></p>
+    <p><b>LinkedIn: <a href="https://www.linkedin.com/in/divyansh-bhandary-3a92bb327/" target="_blank">Divyansh Bhandary</a></b></p>
+    <p><b>Instagram: <a href="https://www.instagram.com/divyanshbhandary" target="_blank">divyanshbhandary</a></b></p>
+    
+    <h2><u>Education</u></h2>
+    <p>
+        <b>Shri Shankaracharya Institute of Professional Management and Technology</b> <br>
+        Sep 2024 - Present <br>
+        B.Tech in CSE (Data Science)
+    </p>
+    <p>
+        <b>MGM SR SEC SCHOOL, Sector 6, Bhilai</b> <br>
+        2023 - 2024 <br>
+        Class 12th (PCM) - 89%
+    </p>
+    <p>
+        <b>MGM SR SEC SCHOOL, Sector 6, Bhilai</b> <br>
+        2021 - 2022 <br>
+        Class 10th - 87%
+    </p>
+    
+    <h2><u>Projects</u></h2>
+    <p>Basic Projects</p>
+  
+    <h2><u>Skills</u></h2>
+    <p>
+        Basic programming in Python and C <br>
+        Communication skills <br>
+        Teamwork
+    </p>
+    
+
+    <h2><u>Interests</u></h2>
+    <p>Guitar <br> Poetry</p>
+    
+    
+    <h2><u>Languages</u></h2>
+    <p>English <br> Hindi</p>
+</body>
+</html>
